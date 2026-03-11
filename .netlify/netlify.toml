@@ -1,0 +1,27 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/sarayu/my-portfolio"
+publishOrigin = "config"
+commandOrigin = "ui"
+base = "/Users/sarayu/my-portfolio"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
